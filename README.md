@@ -1,32 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,120,255,24,200,255&height=180&section=header&text=Stas%20Burov%20(ReactsE)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Vibecoding%20•%20Frontend%20Development%20•%20AI%20Automation&descAlignY=62&descFontSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,120,255,24,200,255&height=180&section=header&text=Stas%20Burov%20(ReactsE)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Development%20•%20Web%20Applications%20•%20Automation&descAlignY=62&descFontSize=18" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=18C8FF&center=true&vCenter=true&width=500&lines=Building+Next-Gen+Web+Experiences;Vibecoding+with+AI+Agents;Fast%2C+Modern+%26+Responsive+Design;Turning+Ideas+Into+Production+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=18C8FF&center=true&vCenter=true&width=500&lines=Frontend+Development;Web+Applications+%26+Landings;TypeScript%2C+React+%26+Next.js;Browser+Automation+with+Python" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About
+
+Frontend developer based in Moscow. Focusing on fast single-page applications, responsive commercial landing pages and automated web scrapers.
 
 ```javascript
-const stas = {
+const developer = {
     name: "Стас Буров",
-    role: "Vibecoder & Web Developer",
-    location: "Moscow, Russia 🇷🇺",
-    passions: ["Modern UI/UX", "AI Automations", "High-Converting Landings", "CS2 🎯"],
-    currentFocus: "Scaling web projects & client acquisition through AI agents"
+    handle: "ReactsE",
+    location: "Moscow",
+    stack: ["JavaScript", "TypeScript", "React", "Next.js", "Python", "Playwright"],
+    status: "Developing commercial web products and client websites"
 };
 ```
 
-- 🚀 **Specialization:** Building ultra-fast, premium dark-themed landing pages with micro-animations & interactive UX.
-- 🤖 **AI-Driven Workflow:** Leveraging cutting-edge AI architectures, autonomous browser agents & scrapers for high-speed delivery.
-- 💡 **Philosophy:** Modern code, clean aesthetics, zero fluff, instant results.
+- Development of responsive web interfaces using modern CSS, Vanilla JS and React.
+- Building automated data collection tools and parsers using Python and Playwright.
+- Performance optimization, clean semantic markup and interactive client-side components.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -37,12 +39,12 @@ const stas = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReactsE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070d&title_color=18c8ff&text_color=e8f1ff&icon_color=18c8ff" width="48%" />
